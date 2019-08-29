@@ -1,7 +1,7 @@
 # FlutterNodeTips
 Flutter 学习笔记思维导图，包含常用组件的基础属性，可在源文件中直接搜索，也可作为一个常用必备的手册。
 
-![](https://github.com/gdky005/FlutterNodeTips/blob/master/LICENSE)
+![](https://github.com/gdky005/FlutterNodeTips/blob/master/FlutterNode_%20thumb.png)
 
 ## 适合人群
 - 新手：便于新手学习和理解常用的组件，以及基础属性。
