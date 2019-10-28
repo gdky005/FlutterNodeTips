@@ -1,7 +1,9 @@
 # FlutterNodeTips
 Flutter 学习笔记思维导图，包含常用组件的基础属性，可在源文件中直接搜索，也可作为一个常用必备的手册。
 
-![](https://raw.githubusercontent.com/gdky005/FlutterNodeTips/master/FlutterNode_%20thumb.png)
+
+
+![][image-1]
 
 ## 适合人群
 - 新手：便于新手学习和理解常用的组件，以及基础属性。
@@ -15,15 +17,29 @@ Flutter 学习笔记思维导图，包含常用组件的基础属性，可在源
 
 ## 源文件
 
-[https://github.com/gdky005/FlutterNodeTips](https://github.com/gdky005/FlutterNodeTips)
+[https://github.com/gdky005/FlutterNodeTips][1]
 
 ## 其他更多
 
-[https://www.gdky005.com](https://www.gdky005.com)
+[https://www.gdky005.com][2]
+
+## 开发成果
+
+1. [使用 Flutter 开发 Mac 桌面应用](https://mp.weixin.qq.com/s/cq2AOUOQDsT4GDugCH8hdg)
  
 
 ## Flutter 学习交流群
-添加：gdky005，拉群，也可直接扫码进入。
+添加个人微信号：gdky005，拉入微信的笔记交流群，不定期分享开发心得，大家一起学习讨论。
 
-![](https://raw.githubusercontent.com/gdky005/FlutterNodeTips/master/organization.png)
+![][image-1]
 
+也可关注公众号：mianshishuo。
+
+![][image-1]
+
+
+
+[1]:	https://github.com/gdky005/FlutterNodeTips
+[2]:	https://www.gdky005.com
+
+[image-1]:	https://raw.githubusercontent.com/gdky005/FlutterNodeTips/master/FlutterNode_%20thumb.png
