@@ -3,7 +3,7 @@ Flutter 学习笔记思维导图，包含常用组件的基础属性，可在源
 
 
 
-![][image-1]
+![](https://raw.githubusercontent.com/gdky005/FlutterNodeTips/master/pic/FlutterNode_%20thumb.png)
 
 ## 适合人群
 - 新手：便于新手学习和理解常用的组件，以及基础属性。
@@ -31,15 +31,15 @@ Flutter 学习笔记思维导图，包含常用组件的基础属性，可在源
 ## Flutter 学习交流群
 添加个人微信号：gdky005，拉入微信的笔记交流群，不定期分享开发心得，大家一起学习讨论。
 
-![][image-1]
+![](https://raw.githubusercontent.com/gdky005/FlutterNodeTips/master/pic/organization.png)
+
+## 公众号
 
 也可关注公众号：mianshishuo。
 
-![][image-1]
+![](https://raw.githubusercontent.com/gdky005/FlutterNodeTips/master/pic/mianshishuo.bmp)
 
 
 
 [1]:	https://github.com/gdky005/FlutterNodeTips
 [2]:	https://www.gdky005.com
-
-[image-1]:	https://raw.githubusercontent.com/gdky005/FlutterNodeTips/master/FlutterNode_%20thumb.png
