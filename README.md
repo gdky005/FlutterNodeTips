@@ -43,6 +43,7 @@
 ## 开发成果
 
 1. [使用 Flutter 开发 Mac 桌面应用](https://mp.weixin.qq.com/s/cq2AOUOQDsT4GDugCH8hdg)
+2. [(双图理解)Flutter 核心原理之 Widget、Element 和 RenderObject](https://mp.weixin.qq.com/s/JbZPw4Em4aBWjMAwolqjLg)
  
 
 ## Flutter 学习交流群
