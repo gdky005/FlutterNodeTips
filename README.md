@@ -8,7 +8,7 @@ Flutter 学习笔记思维导图，包含常用组件的基础属性，可在源
 
 ![](https://raw.githubusercontent.com/gdky005/FlutterNodeTips/master/pic/flutter_mind_mapping_thumb.png)
 
-![](https://raw.githubusercontent.com/gdky005/FlutterNodeTips/master/pic/flutter_internal structure_thumb.png)
+![](https://raw.githubusercontent.com/gdky005/FlutterNodeTips/master/pic/flutter_internal_structure_thumb.png)
 
 ## 日期：2019-8-29
 
