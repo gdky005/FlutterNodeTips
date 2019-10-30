@@ -10,6 +10,8 @@ Flutter 学习笔记思维导图，包含常用组件的基础属性，可在源
 
 ![](https://raw.githubusercontent.com/gdky005/FlutterNodeTips/master/pic/flutter_internal_structure_thumb.png)
 
+推荐两个图结合看，更容易理解和记忆。
+
 ## 日期：2019-8-29
 
 ### 常用的组件，以及基础属性
