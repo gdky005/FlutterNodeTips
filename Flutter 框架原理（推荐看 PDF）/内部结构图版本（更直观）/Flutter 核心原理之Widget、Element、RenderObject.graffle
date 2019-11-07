@@ -119,7 +119,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2019-10-30 02:42:43 +0000</string>
+	<string>2019-11-07 02:28:09 +0000</string>
 	<key>Modifier</key>
 	<string>王卿</string>
 	<key>MovementHandleVisible</key>
@@ -187,7 +187,7 @@
 			<key>BackgroundGraphic</key>
 			<dict>
 				<key>Bounds</key>
-				<string>{{-22159.999669790279, -16209.999758452186}, {58419.999129474178, 41499.999381601825}}</string>
+				<string>{{-3443.75, -2620.0892857142858}, {10690.178571428572, 8558.0357142857138}}</string>
 				<key>Class</key>
 				<string>GraffleShapes.CanvasBackgroundGraphic</string>
 				<key>ID</key>
@@ -2512,7 +2512,7 @@ State.didChangeDependencies()}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{2999.3568808869791, 3556.3651893183455}, {95.455999999998312, 21}}</string>
+							<string>{{3019.6488809323459, 3556.3651856043034}, {54.871999999999389, 21}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FitText</key>
@@ -2564,7 +2564,7 @@ State.didChangeDependencies()}</string>
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
-\f0\fs16 \cf0 StatelessWidget.build()}</string>
+\f0\fs16 \cf0 State.build()}</string>
 								<key>TextAlongPathGlyphAnchor</key>
 								<string>center</string>
 							</dict>
@@ -3339,7 +3339,7 @@ State.didChangeDependencies()}</string>
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs32 \cf0 StatelessElement}</string>
+\f0\fs32 \cf0 StatefulElement}</string>
 								<key>TextAlongPathGlyphAnchor</key>
 								<string>center</string>
 							</dict>
@@ -19190,7 +19190,7 @@ ObjectElement}</string>
 		<key>CurrentSheet</key>
 		<integer>0</integer>
 		<key>Frame</key>
-		<string>{{0, 0}, {1280, 740}}</string>
+		<string>{{-1246, -335}, {1280, 733}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>ShowRuler</key>
@@ -19202,7 +19202,7 @@ ObjectElement}</string>
 		<key>Sidebar_Tab</key>
 		<integer>0</integer>
 		<key>VisibleRegion</key>
-		<string>{{-10499.999843537817, -4069.9999393522785}, {19579.999708235267, 14159.999788999565}}</string>
+		<string>{{2836.6071428571436, 3190.6249999999995}, {874.10714285714312, 556.25000000000045}}</string>
 		<key>WindowInfo_InspectorTab</key>
 		<array>
 			<string>com.omnigroup.OmniGraffle.inspectorGroup.object</string>
@@ -19211,7 +19211,7 @@ ObjectElement}</string>
 		<array>
 			<array>
 				<string>Canvas 1</string>
-				<real>0.05000000074505806</real>
+				<real>1.1199999999999999</real>
 				<real>1</real>
 			</array>
 		</array>
@@ -19240,7 +19240,7 @@ ObjectElement}</string>
 	<key>includeNonPrintingLayersKey</key>
 	<false/>
 	<key>lastExportTypeKey</key>
-	<integer>7</integer>
+	<integer>8</integer>
 	<key>marginWidthKey</key>
 	<real>0.0</real>
 	<key>readOnlyKey</key>
