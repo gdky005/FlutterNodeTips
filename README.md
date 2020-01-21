@@ -6,8 +6,11 @@
 
 ### 秒速写 Flutter 单例
 
-两张 gif 图：
+1. dart 单例快速使用：
+![dart 单例快速使用](https://github.com/gdky005/FlutterNodeTips/blob/master/%E7%A7%92%E9%80%9F%E5%86%99%20Flutter%20%E5%8D%95%E4%BE%8B/dart%20%E5%8D%95%E4%BE%8B%E5%BF%AB%E9%80%9F%E4%BD%BF%E7%94%A8.gif?raw=true)
 
+2. dart 单例配置方法
+![dart 单例配置方法](https://github.com/gdky005/FlutterNodeTips/blob/master/%E7%A7%92%E9%80%9F%E5%86%99%20Flutter%20%E5%8D%95%E4%BE%8B/dart%20%E5%8D%95%E4%BE%8B%E9%85%8D%E7%BD%AE%E6%96%B9%E6%B3%95.gif?raw=true)
 
 ## 日期：2019-10-30
 
